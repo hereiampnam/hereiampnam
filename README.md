@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nguyễn Đức Phương Nam
-- 🌱 I’m currently learning IT at Thủy Lợi university
 - 📫 How to reach me : pnam28112002@gmail.com
 
 <!---
